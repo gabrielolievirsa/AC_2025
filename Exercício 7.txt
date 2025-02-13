@@ -1,0 +1,19 @@
+Exercício 7
+
+
+
+- Que tipo de ataque a Ana sofreu?
+ 
+R:A Ana sofreu de fishing
+
+- Que sinais poderiam indicar o e-mail era falso?
+
+R: A Ana poderia ter verificado se o e-mail era do banco.  
+
+- O que é que a Ana deveria ter feito antes de clicar no link a inserir os seus dados?
+
+R: A Ana deveria te verificado se o link levaria mesmo para o site do banco oficial
+
+- Que medidas ela pode tonar agora para minimizar os danos?
+
+R:Comunicar com o banco o mais rápido possível para reaver os seus dados e trocar a pass
